@@ -1,0 +1,63 @@
+
+.main-title{
+    color: white;
+    font-family:monospace;
+    border: 2px do firebrick;
+    font-weight: bolder;
+    border-width:th;
+    text-align: center;
+    background-color: firebrick;
+    border-radius: 25px;
+    padding: 0.1px; 
+}
+
+.page-menu {
+    color:black;
+    padding: 1px;
+}
+
+
+
+p {
+    color:darkgreen;
+    font-family: Arial;
+}
+
+a {
+    color:red;
+    background-color:paleturquoise;
+    border-radius: 25px;
+    background-size: contain ;
+
+}
+
+
+h3 {
+    color:darkcyan;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+#mybutton {
+    color:tomato;
+    border-radius: 5px;
+    border: 8px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#nobutton {
+    color:gray
+
+
+}
+
+
+body{
+
+  justify-content: center;
+}
+
+.fun-facts{
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color:darkred;
+}
