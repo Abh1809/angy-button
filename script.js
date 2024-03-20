@@ -34,7 +34,7 @@ element2.addEventListener("click", ()=>{
             element.innerHTML = "don't press him again"
             element2.addEventListener("click", ()=>{
   
-                element2.innerHTML = "im so angy"
+                element2.innerHTML = "your luck im just a button"
                 element.innerHTML = "sigh"
                 element3.innerHTML = "omg i got so scared"
             })
