@@ -34,7 +34,7 @@ element2.addEventListener("click", ()=>{
             element.innerHTML = "don't press him again"
             element2.addEventListener("click", ()=>{
   
-                window.close()
+                close.window()
                 
             })
         })
